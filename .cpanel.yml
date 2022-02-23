@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/f25pvowz2z91
+    - export DEPLOYPATH=/home/f25pvowz2z91/testquencies.alshumaal.com 
     - /bin/cp * $DEPLOYPATH
