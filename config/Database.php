@@ -2,7 +2,7 @@
 class Database
 {
   // DB Params
-  private $host = 'localhost';
+  private $host = '148.66.136.216';
   private $db_name = 'testquencies';
   private $username = 'sheraz';
   private $password = 'sherazali11';
