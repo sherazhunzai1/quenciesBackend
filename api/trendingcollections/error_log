@@ -1,0 +1,67 @@
+[12-Feb-2022 11:19:17 UTC] PHP Notice:  Undefined index: hot_coll_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/readSingleArt.php on line 34
+[12-Feb-2022 11:21:31 UTC] PHP Notice:  Undefined variable: trending_coll_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/readAlltrendingArts.php on line 20
+[12-Feb-2022 11:21:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY a.trending_coll_id
+                               ORDER BY
+            ' at line 9 in /home/f25pvowz2z91/testquencies.alshumaal.com/models/trendingcollections.php:70
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/trendingcollections.php(70): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/readAlltrendingArts.php(20): Trending_collections->readSingleArt(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/trendingcollections.php on line 70
+[14-Feb-2022 06:11:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.auction' in 'field list' in /home/f25pvowz2z91/testquencies.alshumaal.com/models/trendingcollections.php:94
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/trendingcollections.php(94): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/readAlltrendingArts.php(22): Trending_collections->readAlltrendingCollArts()
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/trendingcollections.php on line 94
+[16-Feb-2022 06:37:53 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:37:53 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:37:53 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[16-Feb-2022 06:43:14 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:43:14 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:43:14 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[16-Feb-2022 06:43:14 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 48
+[16-Feb-2022 06:43:51 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:43:51 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:43:51 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[16-Feb-2022 06:43:51 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 48
+[16-Feb-2022 06:47:11 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:47:11 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:47:11 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[16-Feb-2022 06:47:11 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 48
+[16-Feb-2022 06:49:26 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:49:26 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:49:26 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[16-Feb-2022 06:49:26 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 48
+[16-Feb-2022 06:50:57 UTC] PHP Warning:  include_once(../../../config/database.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:50:57 UTC] PHP Warning:  include_once(): Failed opening '../../../config/database.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:50:57 UTC] PHP Warning:  include_once(../../../config/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 9
+[16-Feb-2022 06:50:57 UTC] PHP Warning:  include_once(): Failed opening '../../../config/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 9
+[16-Feb-2022 06:50:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 17
+[16-Feb-2022 06:51:26 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:51:26 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[16-Feb-2022 06:51:26 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[16-Feb-2022 06:51:26 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 48
+[18-Feb-2022 13:49:54 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 13:49:54 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 13:49:54 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[18-Feb-2022 13:49:54 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 49
+[18-Feb-2022 13:54:51 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 13:54:51 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 13:54:51 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[18-Feb-2022 13:54:51 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 49
+[18-Feb-2022 13:55:40 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 13:55:40 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 13:55:40 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[18-Feb-2022 13:55:40 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 49
+[18-Feb-2022 13:58:27 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 13:58:27 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 13:58:27 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[18-Feb-2022 13:58:27 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 49
+[18-Feb-2022 14:01:48 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 14:01:48 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 8
+[18-Feb-2022 14:01:48 UTC] PHP Warning:  Illegal string offset 'trending_coll_id' in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 21
+[18-Feb-2022 14:01:48 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/trendingcollections/sequence.php on line 49

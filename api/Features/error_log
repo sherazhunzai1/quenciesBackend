@@ -1,0 +1,337 @@
+[12-Feb-2022 07:17:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_featureArt() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 29
+[12-Feb-2022 07:18:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:40
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(40): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 40
+[12-Feb-2022 07:21:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:40
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(40): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 40
+[12-Feb-2022 07:25:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:40
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(40): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 40
+[12-Feb-2022 07:25:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:40
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(40): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('33')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 40
+[12-Feb-2022 07:27:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:41
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(41): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('2')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 41
+[12-Feb-2022 07:28:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:41
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(41): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('2')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 41
+[12-Feb-2022 07:33:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:41
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(41): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('5')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 41
+[12-Feb-2022 07:34:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:41
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(41): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('5')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 41
+[12-Feb-2022 07:38:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(26): Features->add_featureArt('5')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 07:42:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(25): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 07:47:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(30): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 07:49:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(30): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 07:52:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:66
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(66): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(30): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 66
+[12-Feb-2022 07:55:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:66
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(66): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(30): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 66
+[12-Feb-2022 07:56:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:66
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(66): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(30): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 66
+[12-Feb-2022 07:59:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(30): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 08:03:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(25): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 08:04:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(25): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 08:13:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(25): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 08:14:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:38
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(38): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php(25): Features->add_featureArt('3')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 38
+[12-Feb-2022 08:23:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:69
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(69): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php(23): Features->readSingleArt('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 69
+[12-Feb-2022 08:25:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:69
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(69): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php(23): Features->readSingleArt('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 69
+[12-Feb-2022 08:27:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.features' doesn't exist in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:70
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(70): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php(23): Features->readSingleArt('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 70
+[12-Feb-2022 09:54:34 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 29
+[12-Feb-2022 10:19:05 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 29
+[12-Feb-2022 10:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Features::fetch() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 27
+[12-Feb-2022 10:26:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Features::fetch() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 27
+[12-Feb-2022 10:31:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Features::fetch() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 27
+[12-Feb-2022 10:39:09 UTC] PHP Notice:  Undefined variable: feature in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 31
+[12-Feb-2022 10:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 31
+[12-Feb-2022 10:41:10 UTC] PHP Notice:  Undefined variable: feature in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 31
+[12-Feb-2022 10:41:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 31
+[12-Feb-2022 10:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Features::fetch() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 31
+[12-Feb-2022 10:46:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 49
+[14-Feb-2022 05:54:30 UTC] PHP Notice:  Undefined variable: hot_coll_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 21
+[14-Feb-2022 05:54:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY a.feature_id
+                               ORDER BY
+                  ' at line 9 in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:70
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(70): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php(21): Features->readSingleArt(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 70
+[14-Feb-2022 05:56:38 UTC] PHP Notice:  Undefined variable: hot_coll_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 21
+[14-Feb-2022 05:56:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY a.feature_id
+                               ORDER BY
+                  ' at line 9 in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:70
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(70): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php(21): Features->readSingleArt(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 70
+[14-Feb-2022 05:57:15 UTC] PHP Notice:  Undefined variable: hot_coll_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 21
+[14-Feb-2022 05:57:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY a.feature_id
+                               ORDER BY
+                  ' at line 9 in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:70
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(70): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php(21): Features->readSingleArt(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 70
+[14-Feb-2022 05:58:22 UTC] PHP Notice:  Undefined variable: hot_coll_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 22
+[14-Feb-2022 05:58:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY a.feature_id
+                               ORDER BY
+                  ' at line 9 in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:70
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(70): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php(22): Features->readSingleArt(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 70
+[14-Feb-2022 06:02:51 UTC] PHP Notice:  Undefined index: countViews in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php on line 48
+[14-Feb-2022 06:37:33 UTC] PHP Notice:  Undefined index: creator_name in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 43
+[14-Feb-2022 06:37:33 UTC] PHP Notice:  Undefined index: creator_name in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 43
+[14-Feb-2022 06:37:48 UTC] PHP Notice:  Undefined index: creator_name in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 43
+[14-Feb-2022 06:37:48 UTC] PHP Notice:  Undefined index: creator_name in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 43
+[14-Feb-2022 06:38:04 UTC] PHP Notice:  Undefined index: creator_name in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 43
+[14-Feb-2022 06:38:04 UTC] PHP Notice:  Undefined index: creator_name in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 43
+[14-Feb-2022 06:40:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.creatorName' in 'field list' in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:70
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php(70): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readSingleArt.php(24): Features->readSingleArt('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 70
+[14-Feb-2022 07:17:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Features::readAllfeatureArts(), 0 passed in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 36 and exactly 2 expected in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php:75
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php(36): Features->readAllfeatureArts()
+#1 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Features.php on line 75
+[14-Feb-2022 07:17:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Features::total_feature_arts() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 37
+[14-Feb-2022 07:18:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Features::total_feature_arts() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 37
+[14-Feb-2022 07:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Features::total_feature_arts() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 36
+[14-Feb-2022 07:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Features::total_feature_arts() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/readAllfeatureArts.php on line 36
+[15-Feb-2022 06:38:12 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 06:38:12 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 06:38:12 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 31
+[15-Feb-2022 06:38:57 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 06:38:57 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 06:38:57 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 31
+[15-Feb-2022 06:40:52 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 06:40:52 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:42:34 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:42:34 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:43:58 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:43:58 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:43:58 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 32
+[15-Feb-2022 07:44:05 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:44:05 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:44:05 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 32
+[15-Feb-2022 07:51:14 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:51:14 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:51:14 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 46
+[15-Feb-2022 07:53:31 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:53:31 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:53:31 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 46
+[15-Feb-2022 07:54:39 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:54:40 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:54:40 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 31
+[15-Feb-2022 07:55:48 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:55:48 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 07:55:48 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 47
+[15-Feb-2022 09:09:37 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:09:37 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:09:37 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[15-Feb-2022 09:10:19 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:10:19 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:10:19 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[15-Feb-2022 09:10:35 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:10:35 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:10:35 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[15-Feb-2022 09:12:35 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:12:35 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:12:36 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[15-Feb-2022 09:18:13 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:18:13 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:18:13 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[15-Feb-2022 09:20:27 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:20:27 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[15-Feb-2022 09:20:27 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[19-Feb-2022 10:55:14 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:55:14 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:55:14 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[19-Feb-2022 10:57:29 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:57:29 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:57:29 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[19-Feb-2022 10:57:40 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:57:40 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:57:40 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[19-Feb-2022 10:57:50 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:57:50 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:57:50 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[19-Feb-2022 10:58:30 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:58:30 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:58:30 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[19-Feb-2022 10:59:28 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 10:59:28 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 11:04:43 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 11:04:43 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 11:06:46 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 11:06:46 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 11:07:01 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 11:07:01 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 11:07:04 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[19-Feb-2022 11:07:04 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:08:40 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:08:40 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:08:40 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[21-Feb-2022 09:10:37 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:10:37 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:10:37 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[21-Feb-2022 09:16:27 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:16:27 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:16:27 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[21-Feb-2022 09:18:18 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:18:18 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:18:39 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:18:39 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:39:22 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:39:22 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:39:22 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33
+[21-Feb-2022 09:39:32 UTC] PHP Warning:  include_once(../../models/constants.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:39:32 UTC] PHP Warning:  include_once(): Failed opening '../../models/constants.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 10
+[21-Feb-2022 09:39:32 UTC] PHP Warning:  Use of undefined constant BASE_URL - assumed 'BASE_URL' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/Features/addFeatureArt.php on line 33

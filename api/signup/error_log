@@ -1,0 +1,1564 @@
+[26-Mar-2021 10:14:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'sheraz123')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 10:15:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'sheraz123')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 10:15:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'sheraz123')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 10:15:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'sheraz123')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 10:15:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'sheraz123')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 10:15:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'sheraz123')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 10:15:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'sheraz123')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 10:32:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'sheraz123')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 11:15:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(19): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 11:17:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 11:17:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 11:19:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 11:21:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 102
+[26-Mar-2021 11:21:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 102
+[26-Mar-2021 11:21:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 102
+[26-Mar-2021 11:22:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:97
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(97): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 97
+[26-Mar-2021 11:22:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:97
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(97): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 97
+[26-Mar-2021 11:22:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:97
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(97): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 97
+[26-Mar-2021 11:22:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:97
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(97): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 97
+[26-Mar-2021 11:23:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:97
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(97): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 97
+[26-Mar-2021 11:26:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sheraz' in 'field list' in /home/f25pvowz2z91/public_html/markish/models/Login.php:92
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(92): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 92
+[26-Mar-2021 11:26:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sheraz' in 'field list' in /home/f25pvowz2z91/public_html/markish/models/Login.php:92
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(92): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 92
+[26-Mar-2021 11:26:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sheraz' in 'field list' in /home/f25pvowz2z91/public_html/markish/models/Login.php:92
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(92): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 92
+[26-Mar-2021 11:26:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sheraz' in 'field list' in /home/f25pvowz2z91/public_html/markish/models/Login.php:92
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(92): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 92
+[26-Mar-2021 11:26:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sheraz' in 'field list' in /home/f25pvowz2z91/public_html/markish/models/Login.php:92
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(92): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 92
+[26-Mar-2021 11:27:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'users_email_unique' in /home/f25pvowz2z91/public_html/markish/models/Login.php:86
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(86): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 86
+[26-Mar-2021 11:27:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'users_email_unique' in /home/f25pvowz2z91/public_html/markish/models/Login.php:86
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(86): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 86
+[26-Mar-2021 11:27:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'users_email_unique' in /home/f25pvowz2z91/public_html/markish/models/Login.php:86
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(86): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 86
+[26-Mar-2021 11:27:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'users_email_unique' in /home/f25pvowz2z91/public_html/markish/models/Login.php:86
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(86): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 86
+[26-Mar-2021 11:27:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'users_email_unique' in /home/f25pvowz2z91/public_html/markish/models/Login.php:86
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(86): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 86
+[26-Mar-2021 11:27:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'users_email_unique' in /home/f25pvowz2z91/public_html/markish/models/Login.php:86
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(86): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 86
+[26-Mar-2021 11:31:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'users_email_unique' in /home/f25pvowz2z91/public_html/markish/models/Login.php:86
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(86): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 86
+[26-Mar-2021 11:32:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:97
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(97): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 97
+[26-Mar-2021 11:36:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 88
+[26-Mar-2021 11:36:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/f25pvowz2z91/public_html/markish/models/Login.php:91
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#1 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 91
+[26-Mar-2021 11:37:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 88
+[26-Mar-2021 11:39:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 88
+[26-Mar-2021 11:41:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 11:41:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 11:41:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/markish/models/Login.php:96
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/markish/models/Login.php(96): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/markish/api/signup/signup.php(22): Login->signup('sheraz', 'test')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/markish/models/Login.php on line 96
+[26-Mar-2021 14:54:16 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 18
+[26-Mar-2021 14:54:16 UTC] PHP Notice:  Undefined index: password in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 19
+[27-Mar-2021 20:14:01 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 7
+[27-Mar-2021 20:14:17 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 7
+[27-Mar-2021 20:14:30 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 7
+[27-Mar-2021 20:14:48 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 7
+[27-Mar-2021 20:15:01 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 7
+[27-Mar-2021 20:15:09 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 7
+[27-Mar-2021 20:15:13 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 7
+[27-Mar-2021 20:15:19 UTC] PHP Notice:  Undefined index: username in /home/f25pvowz2z91/public_html/markish/api/signup/signup.php on line 7
+[02-Apr-2021 09:34:41 UTC] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 11
+[02-Apr-2021 09:43:13 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 21
+[02-Apr-2021 09:43:13 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 22
+[02-Apr-2021 09:43:13 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 23
+[02-Apr-2021 09:43:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:100
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(100): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(27): Login->signup(NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 100
+[02-Apr-2021 09:44:16 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 21
+[02-Apr-2021 09:44:16 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 22
+[02-Apr-2021 09:44:16 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 23
+[02-Apr-2021 09:46:20 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 21
+[02-Apr-2021 09:46:20 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 22
+[02-Apr-2021 09:46:20 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 23
+[02-Apr-2021 09:47:06 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 21
+[02-Apr-2021 09:47:06 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 22
+[02-Apr-2021 09:47:06 UTC] PHP Notice:  Undefined variable: data in /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php on line 23
+[09-Apr-2021 21:58:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' gender = 'salman@webloop.pk'' at line 1 in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:109
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(109): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('salman karim', 'salman', 'salman@webloop....', '25/5/1995', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 109
+[09-Apr-2021 21:58:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' gender = 'salman@webloop.pk'' at line 1 in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:109
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(109): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('salman karim', 'salman', 'salman@webloop....', '25/5/1995', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 109
+[09-Apr-2021 22:00:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' gender = 'salman@webloop.pk'' at line 1 in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:109
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(109): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('salman karim', 'salman', 'salman@webloop....', '25/5/1995', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 109
+[23-Apr-2021 15:56:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('bashir udin', '7a254065dd0fdaa...', 'bashir@gmail.co...', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 15:56:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('bashir udin', '7a254065dd0fdaa...', 'bashir@gmail.co...', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 15:56:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('bashir udin', '7a254065dd0fdaa...', 'bashir@gmail.co...', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 15:56:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('bashir udin', '7a254065dd0fdaa...', 'bashir@gmail.co...', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 15:56:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('bashir udin', '7a254065dd0fdaa...', 'bashir@gmail.co...', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 15:59:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('bashi udin', '7a254065dd0fdaa...', 'bashir@gmail.co...', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 15:59:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('bashi udin', '7a254065dd0fdaa...', 'bashir@gmail.co...', 'male')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 16:04:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('klsjdf klsjdf', '0338ba06f142635...', 'skdlfj@gmail.co...', 'female')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 16:05:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('klsjdf klsjdf', '0338ba06f142635...', 'skdlfj@gmail.co...', 'female')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 16:05:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:110
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(110): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(30): Login->signup('teklja ksdfjlk', 'e6cae88f4d05746...', 'kjsldafj@gmail....', 'female')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 110
+[23-Apr-2021 16:44:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:119
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(119): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(33): Login->signup('karim', '2167a6ac80340b6...', 'karim@gmail.com', 'male', '2021-04-30', 'nouman', 'karim')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 119
+[23-Apr-2021 16:44:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:119
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(119): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(33): Login->signup('karim', '2167a6ac80340b6...', 'karim@gmail.com', 'male', '2021-04-30', 'nouman', 'karim')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 119
+[23-Apr-2021 16:44:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:119
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(119): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(33): Login->signup('karim', '2167a6ac80340b6...', 'karim@gmail.com', 'male', '2021-04-30', 'nouman', 'karim')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 119
+[23-Apr-2021 16:46:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'field list' in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php:119
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php(119): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/signup/signup.php(33): Login->signup('sheraz', '62aafd9519dec61...', 'tutyu@ttyty', 'male', 'rttete', 'rttr', 'etert')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Login.php on line 119
+[18-Sep-2021 06:10:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'wallet_address' in 'field list' in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(31): Login->signup('sairakhaan', '098f6bcd4621d37...', 'saira.khaan@gma...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 138
+[18-Sep-2021 06:18:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:135
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(135): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(31): Login->signup('sairakhaan', '098f6bcd4621d37...', 'saira.khaan@gma...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 135
+[18-Sep-2021 06:21:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php on line 52
+[18-Sep-2021 06:22:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php on line 52
+[18-Sep-2021 06:25:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:135
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(135): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(31): Login->signup('sairakhaan', '098f6bcd4621d37...', 'saira.khaan@gma...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 135
+[18-Sep-2021 06:28:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:135
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(135): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(31): Login->signup('sairakhaan', '098f6bcd4621d37...', 'saira.khaan@gma...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 135
+[18-Sep-2021 06:32:55 UTC] PHP Notice:  Undefined property: Login::$wallet_address in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 123
+[18-Sep-2021 06:32:55 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 124
+[18-Sep-2021 06:32:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(31): Login->signup('sairakhaan', '098f6bcd4621d37...', 'saira.khaan@gma...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 138
+[18-Sep-2021 06:33:06 UTC] PHP Notice:  Undefined property: Login::$wallet_address in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 123
+[18-Sep-2021 06:33:06 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 124
+[18-Sep-2021 06:33:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(31): Login->signup('sairakhaan', '098f6bcd4621d37...', 'saira.khaan@gma...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 138
+[18-Sep-2021 06:34:55 UTC] PHP Notice:  Undefined property: Login::$wallet_address in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 123
+[18-Sep-2021 06:34:55 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 124
+[18-Sep-2021 06:34:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(30): Login->signup('sairakhaan', '098f6bcd4621d37...', 'saira.khaan@gma...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 138
+[18-Sep-2021 06:35:49 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php on line 30
+[18-Sep-2021 06:35:49 UTC] PHP Notice:  Undefined property: Login::$wallet_address in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 123
+[18-Sep-2021 06:35:49 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 124
+[18-Sep-2021 06:35:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(30): Login->signup(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 138
+[18-Sep-2021 06:35:52 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php on line 30
+[18-Sep-2021 06:35:52 UTC] PHP Notice:  Undefined property: Login::$wallet_address in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 123
+[18-Sep-2021 06:35:52 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 124
+[18-Sep-2021 06:35:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/quencies.webloop.pk/api/signup/signup.php(30): Login->signup(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/quencies.webloop.pk/models/Login.php on line 138
+[22-Sep-2021 10:12:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(30): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 138
+[22-Sep-2021 10:12:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(30): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 138
+[22-Sep-2021 10:17:16 UTC] PHP Fatal error:  Cannot redeclare Login::$firstName in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 11
+[22-Sep-2021 10:17:20 UTC] PHP Fatal error:  Cannot redeclare Login::$firstName in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 11
+[22-Sep-2021 10:19:48 UTC] PHP Fatal error:  Cannot redeclare Login::$firstName in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 11
+[22-Sep-2021 10:21:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 51
+[22-Sep-2021 10:21:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 51
+[22-Sep-2021 10:21:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 51
+[22-Sep-2021 10:22:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 23
+[22-Sep-2021 10:23:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 23
+[22-Sep-2021 10:26:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 23
+[22-Sep-2021 10:29:14 UTC] PHP Fatal error:  Cannot redeclare Login::$firstName in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 11
+[22-Sep-2021 10:30:18 UTC] PHP Fatal error:  Cannot redeclare Login::$firstName in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 11
+[22-Sep-2021 10:37:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 10:38:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 10:44:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 10:44:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 10:47:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 10:52:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 10:58:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 10:58:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('sairakhaan', '009b55ae2ac4e48...', 'sairakhaan@gmai...', 'saira', 'khaan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:01:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('Sairaakhan', '81dc9bdb52d04dc...', 'abcd@gmail.com', 'sairaa', 'khan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:02:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('Sairaakhan', '81dc9bdb52d04dc...', 'abcd@gmail.com', 'sairaa', 'khan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:04:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('Sairaakhan', '81dc9bdb52d04dc...', 'abcd@gmail.com', 'sairaa', 'khan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:04:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('Sairaakhan', '81dc9bdb52d04dc...', 'abcd@gmail.com', 'sairaa', 'khan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:05:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('Sairaakhan', '81dc9bdb52d04dc...', 'abcd@gmail.com', 'sairaa', 'khan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:06:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('Sairaakhan', '81dc9bdb52d04dc...', 'sairakhan@gmail...', 'sairaa', 'khan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:08:15 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 32
+[22-Sep-2021 11:08:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:08:20 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 32
+[22-Sep-2021 11:08:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:08:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('Sairaakhan', '81dc9bdb52d04dc...', 'sairakhan@gmail...', 'sairaa', 'khan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:10:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(32): Login->signup('Sairaakhan', '81dc9bdb52d04dc...', 'sairakhan@gmail...', 'sairaa', 'khan')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[22-Sep-2021 11:27:22 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 101
+[22-Sep-2021 11:27:30 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 101
+[22-Sep-2021 11:27:42 UTC] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 101
+[23-Sep-2021 09:25:36 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 109
+[23-Sep-2021 09:25:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:140
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(140): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('khankhun', 'ea198f57378394a...', 'littelhunter2@g...', 'Kashan', 'ghori')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 140
+[23-Sep-2021 09:31:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Login::signup(), 5 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 33 and exactly 6 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:101
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('khankhun', 'ea198f57378394a...', 'littelhunter2@g...', 'Kashan', 'ghori')
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 101
+[23-Sep-2021 10:10:34 UTC] PHP Notice:  Undefined variable: conn in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 33
+[23-Sep-2021 10:10:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 33
+[23-Sep-2021 10:10:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 34
+[23-Sep-2021 10:13:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 33
+[23-Sep-2021 10:13:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 34
+[23-Sep-2021 10:13:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 33
+[23-Sep-2021 10:13:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 34
+[23-Sep-2021 10:13:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 33
+[23-Sep-2021 10:13:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 34
+[23-Sep-2021 10:15:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 33
+[23-Sep-2021 10:15:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 34
+[30-Sep-2021 07:45:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testing' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testing', '098f6bcd4621d37...', 'ciraaa.khaan@gm...', 'test', 'testtest', '0xfC5163ff2a370...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[30-Sep-2021 07:45:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testing' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testing', '098f6bcd4621d37...', 'ciraaa.khaan@gm...', 'test', 'testtest', '0xfC5163ff2a370...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[30-Sep-2021 07:46:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testing' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testing', '098f6bcd4621d37...', 'ciraaa.khaan@gm...', 'test', 'testtest', '0xfC5163ff2a370...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[01-Oct-2021 12:37:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '25d55ad283aa400...', 'sherazhunzai1@g...', 'sheraz', 'Ali', '0xfC5163ff2a370...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[01-Oct-2021 12:37:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '25d55ad283aa400...', 'sherazhunzai1@g...', 'sheraz', 'Ali', '0xfC5163ff2a370...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[08-Oct-2021 12:18:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi1' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi1', '8d30cc1f5e765fe...', 'sherazhunzai1@g...', 'sheraz', 'Ali', '0xfC5163ff2a370...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[18-Oct-2021 08:46:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '25d55ad283aa400...', 'sherazhunzai2@g...', 'test', 'test', '0x3454655665654...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[18-Oct-2021 08:46:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '25d55ad283aa400...', 'sherazhunzai2@g...', 'test', 'test', '0x3454655665654...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[18-Oct-2021 08:46:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '25d55ad283aa400...', 'sherazhunzai2@g...', 'test', 'test', '0x3454655665654...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[18-Oct-2021 08:49:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '25d55ad283aa400...', 'sherazhunzai2@g...', 'test', 'test', '0x3454655665654...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[12-Nov-2021 20:25:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('test', 'e807f1fcf82d132...', 'sherazhunzai1@g...', 'test', 'test', '0x5456565476576...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[12-Nov-2021 20:25:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('test', 'e807f1fcf82d132...', 'sherazhunzai1@g...', 'test', 'test', '0x5456565476576...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[13-Nov-2021 09:02:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('test', 'ea198f57378394a...', 'test@test.com', 'test', 'test', '0x1231iajsduio1...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[13-Nov-2021 09:03:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('test', 'ea198f57378394a...', 'test@test.com', 'test', 'test', '0x1231iajsduio1...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[13-Nov-2021 20:46:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '8d30cc1f5e765fe...', 'sherazhunzai1@g...', 'test', 'test', '0x3840ec08Ac36D...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[13-Nov-2021 20:46:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '8d30cc1f5e765fe...', 'sherazhunzai1@g...', 'test', 'test', '0x3840ec08Ac36D...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[13-Nov-2021 20:47:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sherazi' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sherazi', '8d30cc1f5e765fe...', 'sherazhunzai2@g...', 'test', 'test', '0x3840ec08Ac36D...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[17-Nov-2021 09:58:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sairakhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sairakhaan', '25f9e794323b453...', 'sairakhaan.mail...', 'saira', 'khaan', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[17-Nov-2021 09:58:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sairakhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sairakhaan', '25f9e794323b453...', 'sairakhaan.mail...', 'saira', 'khaan', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[17-Nov-2021 09:58:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sairakhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sairakhaan', '25f9e794323b453...', 'sairakhaan.mail...', 'saira', 'khaan', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[17-Nov-2021 10:04:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sairakhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sairakhaan', 'e807f1fcf82d132...', 'sairakhaan.mail...', 'saira', 'khaan', '0x1e857B5117EC3...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[25-Nov-2021 08:07:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashid' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('rashid', '51e4c82ba9b4a4c...', 'rashidkarim35.7...', 'rashid', 'karim', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[01-Dec-2021 11:11:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ayoubkhan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('ayoubkhan', '8de13959395270b...', 'ahmad123@gmail....', 'ahmad', 'jan', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[01-Dec-2021 11:11:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ayoubkhan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('ayoubkhan', '8de13959395270b...', 'ahmad123@gmail....', 'ahmad', 'jan', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:04:01 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 128
+[04-Dec-2021 08:12:05 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 128
+[04-Dec-2021 08:16:07 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 128
+[04-Dec-2021 08:16:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testttabcd' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:142
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(142): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testttabcd', 'a99442d2a736365...', 'abcd@gmail.com', 'ttestabc', 'abc', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 142
+[04-Dec-2021 08:16:11 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 128
+[04-Dec-2021 08:16:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testttabcd' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:142
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(142): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testttabcd', 'a99442d2a736365...', 'abcd@gmail.com', 'ttestabc', 'abc', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 142
+[04-Dec-2021 08:17:05 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 128
+[04-Dec-2021 08:17:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testttabcd' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:142
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(142): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testttabcd', 'a99442d2a736365...', 'abcd@gmail.com', 'ttestabc', 'abc', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 142
+[04-Dec-2021 08:17:08 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 128
+[04-Dec-2021 08:17:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testttabcd' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:142
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(142): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testttabcd', 'a99442d2a736365...', 'abcd@gmail.com', 'ttestabc', 'abc', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 142
+[04-Dec-2021 08:17:20 UTC] PHP Notice:  Undefined property: Login::$dob in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 128
+[04-Dec-2021 08:17:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testttabcd' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:142
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(142): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testttabcd', 'a99442d2a736365...', 'abcd@gmail.com', 'ttestabc', 'abc', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 142
+[04-Dec-2021 08:17:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testttabcd' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testttabcd', 'a99442d2a736365...', 'abcd@gmail.com', 'ttestabc', 'abc', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:18:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testttabcd' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testttabcd', 'a99442d2a736365...', 'testabcd@gmail....', 'testabcd', 'abc', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:18:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'testttabcd' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('testttabcd', 'a99442d2a736365...', 'testabcd@gmail....', 'testabcd', 'abc', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:35:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('creators', 'mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:36:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('creators', 'mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:37:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('creators', 'mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:37:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('creators', 'mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:39:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''creators' SET 	userName = 'mizkhaan', 	
+        password = '827ccb0eea8a706c4c' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:146
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(146): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('creators', 'mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 146
+[04-Dec-2021 08:40:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''creators' SET 	userName = 'mizkhaan', 	
+        password = '827ccb0eea8a706c4c' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:146
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(146): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('creators', 'mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 146
+[04-Dec-2021 08:42:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''creators' SET 	userName = 'test', 	
+        password = '25f9e794323b453885f518' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:146
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(146): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('creators', 'test', '25f9e794323b453...', 'test@gmail.com', 'test', 'test', '0xE5789970Bb340...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 146
+[04-Dec-2021 08:47:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:47:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:49:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:144
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(144): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 144
+[04-Dec-2021 08:52:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:143
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(143): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 143
+[04-Dec-2021 08:54:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:143
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(143): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 143
+[04-Dec-2021 08:55:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:143
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(143): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 143
+[04-Dec-2021 08:56:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mizkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:142
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(142): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 142
+[04-Dec-2021 08:59:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:137
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(137): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('mizkhaan', '827ccb0eea8a706...', 'mizkhan@gmail.c...', 'miz', 'khan', '0Xfdgdfgfdhfghg')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 137
+[04-Dec-2021 09:01:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:137
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(137): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('test', '25f9e794323b453...', 'test@gmail.com', 'test', 'test', '0xE5789970Bb340...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 137
+[04-Dec-2021 09:04:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:147
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(147): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('test', '25f9e794323b453...', 'test@gmail.com', 'test', 'test', '0xE5789970Bb340...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 147
+[04-Dec-2021 09:05:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:147
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(147): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('test', '25f9e794323b453...', 'test@gmail.com', 'test', 'test', '0xE5789970Bb340...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 147
+[24-Dec-2021 06:42:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ashamkhan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:147
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(147): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('ashamkhan', '25f9e794323b453...', 'ashamkhan@gmail...', 'asham', 'khan', 'sdhcvskdhvcksdv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 147
+[24-Dec-2021 06:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ashamkhan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:147
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(147): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('ashamkhan', '25f9e794323b453...', 'ashamkhan@gmail...', 'asham', 'khan', 'sdhcvskdhvcksdv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 147
+[24-Dec-2021 06:43:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ashamkhan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:147
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(147): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('ashamkhan', '25f9e794323b453...', 'ashamkhan@gmail...', 'asham', 'khan', 'sdhcvskdhvcksdv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 147
+[24-Dec-2021 06:44:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ashamkhan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:147
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(147): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('ashamkhan', '25f9e794323b453...', 'ashamkhan@gmail...', 'asham', 'khan', 'sdhcvskdhvcksdv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 147
+[31-Dec-2021 07:22:59 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:24:36 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:24:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'khaanAlam' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:223
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(223): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(35): Login->owners_signup('khaanAlam', '827ccb0eea8a706...', 'khaanAlam@gmail...', 'khaan', 'Alam', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 223
+[31-Dec-2021 07:24:52 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:32:02 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:32:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test005' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:218
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(218): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(35): Login->owners_signup('test005', '827ccb0eea8a706...', 'khaanAlam@gmail...', 'khaan', 'Alam', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 218
+[31-Dec-2021 07:33:04 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:33:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test005' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:218
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(218): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(35): Login->owners_signup('test005', '827ccb0eea8a706...', 'khaanAlam@gmail...', 'khaan', 'Alam', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 218
+[31-Dec-2021 07:33:51 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:33:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test005' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:218
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(218): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(35): Login->owners_signup('test005', '827ccb0eea8a706...', 'khaanAlam@gmail...', 'khaan', 'Alam', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 218
+[31-Dec-2021 07:34:06 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:35:37 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:35:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test006' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:218
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(218): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(35): Login->owners_signup('test006', '827ccb0eea8a706...', 'test@gmail.com', 'test', 'test1', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 218
+[31-Dec-2021 07:35:57 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[31-Dec-2021 07:35:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'test006' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:218
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(218): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(35): Login->owners_signup('test006', '827ccb0eea8a706...', 'test@gmail.com', 'test', 'test1', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 218
+[31-Dec-2021 07:36:05 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[13-Jan-2022 07:52:18 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[13-Jan-2022 07:53:21 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[13-Jan-2022 07:53:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'khanzada' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:218
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(218): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(35): Login->owners_signup('khanzada', '827ccb0eea8a706...', 'khanazada@gmail...', 'khan', 'zada', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 218
+[13-Jan-2022 07:53:44 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[13-Jan-2022 07:54:44 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[13-Jan-2022 07:56:37 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 35
+[14-Jan-2022 07:55:42 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 47
+[14-Jan-2022 07:57:59 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 47
+[14-Jan-2022 08:06:19 UTC] PHP Warning:  include_once(../..models/owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:06:19 UTC] PHP Warning:  include_once(): Failed opening '../..models/owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:06:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:08:03 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:08:03 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:08:14 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:08:14 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:08:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:08:31 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:08:31 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:12:24 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:12:24 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:12:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:12:59 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:12:59 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:13:09 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:13:09 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:13:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:13:36 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:13:36 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:13:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:14:39 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:14:39 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:14:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:14:51 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:14:51 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:15:13 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:15:13 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:15:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:17:44 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:17:44 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:18:15 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:18:15 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:18:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:19:00 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:19:00 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:19:29 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:19:29 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:19:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:21:51 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:21:51 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:21:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:24:26 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:24:26 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:24:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:24:37 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:24:37 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:24:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 30
+[14-Jan-2022 08:25:41 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:25:41 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:28:35 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:28:35 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:28:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:29:28 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:29:28 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:29:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Owner' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:29:58 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:29:58 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:30:08 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:30:08 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:30:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:30:52 UTC] PHP Warning:  include_once(../..models/Owners.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:30:52 UTC] PHP Warning:  include_once(): Failed opening '../..models/Owners.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 20
+[14-Jan-2022 08:30:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Owners' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 29
+[14-Jan-2022 08:44:25 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 39
+[14-Jan-2022 08:48:22 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 39
+[14-Jan-2022 08:50:07 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 39
+[18-Jan-2022 07:36:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:36:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[18-Jan-2022 07:37:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Rehan-AF' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:171
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(171): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('Rehan-AF', 'df7521dfc04c851...', 'af.rean03@gmail...', 'Rehan', 'Afzal', '0x36a0369E5A569...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 171
+[01-Feb-2022 08:56:02 UTC] PHP Notice:  Undefined variable: firstname in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 43
+[01-Feb-2022 08:56:02 UTC] PHP Notice:  Undefined variable: lastname in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 43
+[01-Feb-2022 08:56:02 UTC] PHP Notice:  Undefined variable: con in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 45
+[01-Feb-2022 08:56:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php on line 45
+[02-Feb-2022 08:42:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'first_name' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 138
+[02-Feb-2022 08:43:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'first_name' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 138
+[02-Feb-2022 08:43:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'first_name' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:138
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(138): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 138
+[02-Feb-2022 08:50:28 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 35
+[02-Feb-2022 08:50:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sanamjan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:202
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(202): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(35): Login->owners_signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 202
+[02-Feb-2022 08:59:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sanamjan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:146
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(146): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 146
+[02-Feb-2022 08:59:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sanamjan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:146
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(146): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(36): Login->signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 146
+[02-Feb-2022 09:01:06 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:01:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sanamjan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:161
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(161): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(36): Login->signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 161
+[02-Feb-2022 09:02:27 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:02:53 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:02:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sanamjan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:161
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(161): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/ownersignup.php(36): Login->signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 161
+[02-Feb-2022 09:04:25 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:04:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'sanamjan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:161
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(161): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('sanamjan', '827ccb0eea8a706...', 'test@gmail.com', 'sanam', 'jan', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 161
+[02-Feb-2022 09:04:57 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:05:09 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:05:34 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:12:57 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:12:57 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 36
+[02-Feb-2022 09:12:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'adam' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:217
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(217): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->owners_signup('adam', '827ccb0eea8a706...', 'test@gmail.com', 'adam', 'khan', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 217
+[02-Feb-2022 09:13:07 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 134
+[02-Feb-2022 09:13:07 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 36
+[02-Feb-2022 09:13:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'adamkhaan' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:217
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(217): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->owners_signup('adamkhaan', '827ccb0eea8a706...', 'test@gmail.com', 'adam', 'khan', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 217
+[02-Feb-2022 09:16:24 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 135
+[02-Feb-2022 09:16:24 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php on line 36
+[02-Feb-2022 09:16:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.owners' doesn't exist in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:218
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(218): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->owners_signup('hinakhush', '827ccb0eea8a706...', 'test@gmail.com', 'hina', 'khush', NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 218
+[02-Feb-2022 09:17:27 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 135
+[02-Feb-2022 09:17:38 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 135
+[02-Feb-2022 09:18:04 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 135
+[02-Feb-2022 09:18:40 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 135
+[02-Feb-2022 09:20:39 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 135
+[02-Feb-2022 09:20:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.owners' doesn't exist in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:218
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(218): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->owners_signup('apply111', '827ccb0eea8a706...', 'apple11@gmail.c...', 'hina', 'khush', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 218
+[02-Feb-2022 09:23:41 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 135
+[02-Feb-2022 09:23:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'apply111' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:162
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(162): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('apply111', '827ccb0eea8a706...', 'apple11@gmail.c...', 'hina', 'khush', 'dvcfjdsgvcjsdhv...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 162
+[02-Feb-2022 09:24:15 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 135
+[02-Feb-2022 14:37:05 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 137
+[02-Feb-2022 14:37:12 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 137
+[02-Feb-2022 14:37:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'siragn' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('siragn', 'c668fab8a135402...', 'sirang@gmail.co...', 'al', 'sirang', '0xE5789970Bb340...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[02-Feb-2022 14:39:08 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 137
+[02-Feb-2022 14:39:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'siragn' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('siragn', 'c668fab8a135402...', 'sirang@gmail.co...', 'al', 'sirang', '0xE5789970Bb340...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[02-Feb-2022 14:39:56 UTC] PHP Notice:  Undefined variable: address in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 137
+[02-Feb-2022 14:39:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'siragn' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(33): Login->signup('siragn', 'c668fab8a135402...', 'sirang@gmail.co...', 'al', 'sirang', '0xE5789970Bb340...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:23:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 17:24:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'rashidkarim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('rashidkarim', '90a00aafaab545a...', 'rashidkarim35.7...', 'rashid  ', 'karim', '0x618E5c9d78742...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 19:32:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('asim', '90a00aafaab545a...', 'asadaliasim909@...', 'asad', 'ali', '0x094C0B51824BE...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 164
+[04-Feb-2022 19:43:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:204
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(204): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(36): Login->signup('asim', '90a00aafaab545a...', 'asadaliasim909@...', 'asad', 'ali', '0x094C0B51824BE...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 204
+[04-Feb-2022 19:44:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:204
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(204): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(53): Login->signup('asim', '90a00aafaab545a...', 'asadaliasim1909...', 'asad', 'ali', '0x094C0B51824BE...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 204
+[04-Feb-2022 19:44:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'asim' for key 'userName' in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php:204
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php(204): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/signup/signup.php(53): Login->signup('asim', '90a00aafaab545a...', 'asadaliasim1909...', 'asad', 'ali', '0x094C0B51824BE...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Login.php on line 204

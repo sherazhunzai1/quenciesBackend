@@ -1,0 +1,65 @@
+[09-Dec-2021 07:13:01 UTC] PHP Fatal error:  Uncaught Error: Class 'RCAs' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 19
+[09-Dec-2021 07:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'RCAs' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 22
+[09-Dec-2021 07:14:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.id' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php(26): RCA->getRCA('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 106
+[09-Dec-2021 07:14:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.id' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php(26): RCA->getRCA('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 106
+[09-Dec-2021 07:15:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.id' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php(26): RCA->getRCA('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 106
+[09-Dec-2021 07:21:13 UTC] PHP Fatal error:  Uncaught Error: Class 'RCAs' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 19
+[09-Dec-2021 07:21:31 UTC] PHP Fatal error:  Uncaught Error: Class 'RCAs' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 19
+[09-Dec-2021 07:27:34 UTC] PHP Notice:  Undefined variable: id in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/allRcas.php on line 20
+[09-Dec-2021 07:28:29 UTC] PHP Notice:  Undefined variable: id in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 20
+[09-Dec-2021 07:28:53 UTC] PHP Notice:  Undefined variable: id in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 20
+[09-Dec-2021 07:39:35 UTC] PHP Notice:  Undefined variable: id in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 20
+[09-Dec-2021 07:42:26 UTC] PHP Notice:  Undefined variable: totalArts in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 27
+[09-Dec-2021 07:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 27
+[09-Dec-2021 07:42:49 UTC] PHP Notice:  Undefined variable: totalArts in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 27
+[09-Dec-2021 07:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 27
+[09-Dec-2021 07:44:48 UTC] PHP Notice:  Undefined variable: totalArts in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 28
+[09-Dec-2021 07:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 28
+[10-Dec-2021 07:10:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.image1' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:135
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(135): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php(20): RCA->getAllrcas()
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 135
+[10-Dec-2021 07:11:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.image1' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:135
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(135): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php(20): RCA->getAllrcas()
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 135

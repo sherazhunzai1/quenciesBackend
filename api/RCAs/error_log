@@ -1,0 +1,264 @@
+[09-Dec-2021 07:13:01 UTC] PHP Fatal error:  Uncaught Error: Class 'RCAs' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 19
+[09-Dec-2021 07:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'RCAs' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 22
+[09-Dec-2021 07:14:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.id' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php(26): RCA->getRCA('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 106
+[09-Dec-2021 07:14:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.id' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php(26): RCA->getRCA('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 106
+[09-Dec-2021 07:15:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.id' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php(26): RCA->getRCA('1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 106
+[09-Dec-2021 07:21:13 UTC] PHP Fatal error:  Uncaught Error: Class 'RCAs' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 19
+[09-Dec-2021 07:21:31 UTC] PHP Fatal error:  Uncaught Error: Class 'RCAs' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 19
+[09-Dec-2021 07:27:34 UTC] PHP Notice:  Undefined variable: id in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/allRcas.php on line 20
+[09-Dec-2021 07:28:29 UTC] PHP Notice:  Undefined variable: id in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 20
+[09-Dec-2021 07:28:53 UTC] PHP Notice:  Undefined variable: id in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 20
+[09-Dec-2021 07:39:35 UTC] PHP Notice:  Undefined variable: id in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 20
+[09-Dec-2021 07:42:26 UTC] PHP Notice:  Undefined variable: totalArts in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 27
+[09-Dec-2021 07:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 27
+[09-Dec-2021 07:42:49 UTC] PHP Notice:  Undefined variable: totalArts in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 27
+[09-Dec-2021 07:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 27
+[09-Dec-2021 07:44:48 UTC] PHP Notice:  Undefined variable: totalArts in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 28
+[09-Dec-2021 07:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 28
+[10-Dec-2021 07:10:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.image1' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:135
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(135): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php(20): RCA->getAllrcas()
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 135
+[10-Dec-2021 07:11:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.image1' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:135
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(135): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php(20): RCA->getAllrcas()
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 135
+[11-Dec-2021 08:33:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:69
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(69): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/createRca.php(65): RCA->insert_rca('test', 'test', '44', 'http://quencies...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 69
+[11-Dec-2021 08:35:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`rcas`, CONSTRAINT `adminId` FOREIGN KEY (`creatorId`) REFERENCES `admin` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:68
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(68): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/createRca.php(65): RCA->insert_rca('test', 'test', '44', 'http://quencies...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 68
+[11-Dec-2021 08:37:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`rcas`, CONSTRAINT `adminId` FOREIGN KEY (`creatorId`) REFERENCES `admin` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:68
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(68): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/createRca.php(65): RCA->insert_rca('test', 'test', '44', 'http://quencies...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 68
+[14-Dec-2021 07:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php on line 28
+[14-Dec-2021 08:44:05 UTC] PHP Warning:  json_encode() expects parameter 2 to be int, string given in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php on line 29
+[14-Dec-2021 08:47:34 UTC] PHP Warning:  json_encode() expects parameter 2 to be int, string given in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php on line 29
+[14-Dec-2021 09:30:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:150
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(150): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('< ?php echo $ro...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 150
+[14-Dec-2021 09:31:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:150
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(150): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('< ?php echo $ro...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 150
+[21-Dec-2021 09:12:46 UTC] PHP Notice:  Undefined index: image,image1,image2,image3,image4,image5 in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[21-Dec-2021 09:33:59 UTC] PHP Notice:  Undefined index: image,image1,image2,image3,image4,image5 in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[21-Dec-2021 10:06:32 UTC] PHP Notice:  Undefined index: countViews in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 41
+[21-Dec-2021 10:07:15 UTC] PHP Notice:  Undefined index: countViews in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 41
+[21-Dec-2021 10:11:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Auction' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/countViews.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/countViews.php on line 21
+[21-Dec-2021 10:35:46 UTC] PHP Notice:  Undefined index: countViews in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 41
+[21-Dec-2021 10:45:03 UTC] PHP Notice:  Undefined index: image,image1,image2,image3 in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:29:04 UTC] PHP Notice:  Undefined index: image,image1,image2,image3,image4,image5 in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:29:04 UTC] PHP Notice:  Undefined variable: image in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:32:41 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:33:12 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:33:30 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:34:10 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:38:43 UTC] PHP Notice:  Undefined index: image, image1 in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:39:27 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:39:44 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:40:20 UTC] PHP Notice:  Undefined index: image1 in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:40:20 UTC] PHP Notice:  Undefined index:  in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:40:45 UTC] PHP Warning:  Illegal string offset 'image1' in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:42:34 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[22-Dec-2021 06:42:42 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/singleRca.php on line 34
+[28-Dec-2021 21:07:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:08:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('7')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:09:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 21:13:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[28-Dec-2021 22:15:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`quencies`.`orders`, CONSTRAINT `rcaId` FOREIGN KEY (`order_number`) REFERENCES `rcas` (`rcaId`)) in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:151
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(151): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/deleterca.php(24): RCA->delete('4')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 151
+[07-Jan-2022 08:43:08 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:43:20 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:43:41 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:43:45 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:44:14 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:44:14 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:44:30 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:45:36 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:46:56 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:47:44 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:47:46 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[07-Jan-2022 08:47:50 UTC] PHP Fatal error:  Cannot redeclare RCA::delete() in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 204
+[08-Feb-2022 10:49:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function RCA::getAllrcas(), 0 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/totalrcas.php on line 16 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:109
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/totalrcas.php(16): RCA->getAllrcas()
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 109
+[08-Feb-2022 10:49:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function RCA::getAllrcas(), 0 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/totalrcas.php on line 16 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:109
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/totalrcas.php(16): RCA->getAllrcas()
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 109
+[08-Feb-2022 10:52:28 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 26
+[08-Feb-2022 10:52:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4, 4' at line 10 in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:131
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(131): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php(34): RCA->getAllrcas(-4, 4)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 131
+[08-Feb-2022 10:52:33 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php on line 26
+[08-Feb-2022 10:52:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-4, 4' at line 10 in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php:131
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php(131): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/RCAs/getallRcas.php(34): RCA->getAllrcas(-4, 4)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/RCAs.php on line 131
+[14-Feb-2022 08:56:08 UTC] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/RCAs/createRca.php on line 47

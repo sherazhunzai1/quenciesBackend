@@ -1,0 +1,123 @@
+[29-Sep-2021 08:26:09 UTC] PHP Notice:  Undefined index: nft_catagory in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[29-Sep-2021 08:26:09 UTC] PHP Notice:  Undefined variable: nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 32
+[01-Oct-2021 08:35:32 UTC] PHP Notice:  Undefined index: nft_catagory in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[01-Oct-2021 08:35:32 UTC] PHP Notice:  Undefined variable: nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 32
+[01-Oct-2021 08:35:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`biddings`, CONSTRAINT `biddings_ibfk_1` FOREIGN KEY (`nft_catagory_id`) REFERENCES `categories` (`nft_category_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php:203
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php(203): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php(32): Creators->place_bid('0x08fAe7a38DF3F...', '3.8', '', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php on line 203
+[01-Oct-2021 08:36:28 UTC] PHP Notice:  Undefined index: nft_catagory in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[01-Oct-2021 08:36:28 UTC] PHP Notice:  Undefined variable: nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 32
+[01-Oct-2021 08:36:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`biddings`, CONSTRAINT `biddings_ibfk_1` FOREIGN KEY (`nft_catagory_id`) REFERENCES `categories` (`nft_category_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php:203
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php(203): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php(32): Creators->place_bid('0x08fAe7a38DF3F...', '3.8', '', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php on line 203
+[01-Oct-2021 08:36:32 UTC] PHP Notice:  Undefined index: nft_catagory in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[01-Oct-2021 08:36:32 UTC] PHP Notice:  Undefined variable: nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 32
+[01-Oct-2021 08:36:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`biddings`, CONSTRAINT `biddings_ibfk_1` FOREIGN KEY (`nft_catagory_id`) REFERENCES `categories` (`nft_category_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php:203
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php(203): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php(32): Creators->place_bid('0x08fAe7a38DF3F...', '3.8', '', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php on line 203
+[01-Oct-2021 08:46:21 UTC] PHP Notice:  Undefined index: nft_catagory in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[01-Oct-2021 08:46:32 UTC] PHP Notice:  Undefined index: nft_catagory in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[01-Oct-2021 08:46:32 UTC] PHP Notice:  Undefined variable: nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 32
+[01-Oct-2021 08:46:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`biddings`, CONSTRAINT `biddings_ibfk_1` FOREIGN KEY (`nft_catagory_id`) REFERENCES `categories` (`nft_category_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php:203
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php(203): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php(32): Creators->place_bid('0x08fAe7a38DF3F...', '3.8', '', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php on line 203
+[01-Oct-2021 08:50:43 UTC] PHP Notice:  Undefined index: $nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[01-Oct-2021 08:50:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`biddings`, CONSTRAINT `biddings_ibfk_1` FOREIGN KEY (`nft_catagory_id`) REFERENCES `categories` (`nft_category_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php:203
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php(203): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php(32): Creators->place_bid('0x08fAe7a38DF3F...', '3.8', '', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php on line 203
+[01-Oct-2021 09:41:18 UTC] PHP Notice:  Undefined index: $nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[01-Oct-2021 09:41:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`biddings`, CONSTRAINT `biddings_ibfk_1` FOREIGN KEY (`nft_catagory_id`) REFERENCES `categories` (`nft_category_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php:203
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php(203): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php(32): Creators->place_bid('0x08fAe7a38DF3F...', '8.1', '', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php on line 203
+[01-Oct-2021 09:41:20 UTC] PHP Notice:  Undefined index: $nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[01-Oct-2021 09:41:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`biddings`, CONSTRAINT `biddings_ibfk_1` FOREIGN KEY (`nft_catagory_id`) REFERENCES `categories` (`nft_category_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php:203
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php(203): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php(32): Creators->place_bid('0x08fAe7a38DF3F...', '8.1', '', '0x08fAe7a38DF3F...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Creators.php on line 203
+[01-Oct-2021 09:48:22 UTC] PHP Notice:  Undefined index: $nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[09-Oct-2021 08:41:34 UTC] PHP Notice:  Undefined index: $nft_catagory_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/bidding/bidding.php on line 14
+[17-Feb-2022 14:02:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php:477
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php(477): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php(38): Bidding->startBidding('5', 'undefined', '0xE5789970Bb340...', '0xffD62CC042a96...', '1.1', '0xb4f407116de70...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php on line 477
+[17-Feb-2022 14:16:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php:477
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php(477): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php(38): Bidding->startBidding('6', '8', '0xE5789970Bb340...', '0x08fae7a38df3f...', '1', '0xad21e4e1676c5...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php on line 477
+[17-Feb-2022 14:19:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php:477
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php(477): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php(38): Bidding->startBidding('6', '8', '0xE5789970Bb340...', '0x08fae7a38df3f...', '1', '0xad21e4e1676c5...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php on line 477
+[17-Feb-2022 14:19:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php:477
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php(477): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php(38): Bidding->startBidding('6', '8', '0xE5789970Bb340...', '0x08fae7a38df3f...', '1', '0xad21e4e1676c5...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php on line 477
+[17-Feb-2022 14:20:56 UTC] PHP Notice:  Undefined variable: adress in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php on line 34
+[17-Feb-2022 14:23:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Bidding::startBiddingstartBidding() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php on line 39
+[17-Feb-2022 14:24:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Bidding::startBiddingstartBidding() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php on line 39
+[17-Feb-2022 14:25:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php:477
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php(477): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidding.php(39): Bidding->startBidding('6', '8', '0xE5789970Bb340...', '0x08fae7a38df3f...', '1', '0xad21e4e1676c5...')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Bidding.php on line 477
+[19-Feb-2022 09:48:02 UTC] PHP Notice:  Undefined variable: username in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 32
+[19-Feb-2022 09:55:20 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 37
+[19-Feb-2022 09:56:10 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 37
+[19-Feb-2022 09:57:32 UTC] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 36
+[19-Feb-2022 09:57:35 UTC] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 36
+[19-Feb-2022 09:58:47 UTC] PHP Notice:  Array to string conversion in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 38
+[19-Feb-2022 10:12:06 UTC] PHP Notice:  Undefined index: nft_name in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 53
+[19-Feb-2022 10:12:22 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 53
+[19-Feb-2022 10:12:46 UTC] PHP Notice:  Undefined index: bidding_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 45
+[19-Feb-2022 10:12:46 UTC] PHP Notice:  Undefined index: listing_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 46
+[19-Feb-2022 10:12:46 UTC] PHP Notice:  Undefined index: token_id in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 47
+[19-Feb-2022 10:12:46 UTC] PHP Notice:  Undefined index: bidder_address in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 48
+[19-Feb-2022 10:12:46 UTC] PHP Notice:  Undefined index: price in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 49
+[19-Feb-2022 10:12:46 UTC] PHP Notice:  Undefined index: created_at in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 51
+[19-Feb-2022 10:12:46 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/biddingActivity.php on line 52
+[19-Feb-2022 11:14:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Auction' not found in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidRefund.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidRefund.php on line 24
+[19-Feb-2022 11:15:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Auction' not found in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidRefund.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/bidding/bidRefund.php on line 24

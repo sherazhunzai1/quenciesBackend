@@ -1,0 +1,497 @@
+[29-Dec-2021 07:17:34 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:17:34 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:17:56 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:17:56 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:12 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:12 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:23 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:23 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:35 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:35 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:48 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:48 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:18:48 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 25
+[29-Dec-2021 07:19:04 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:19:04 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 25
+[29-Dec-2021 07:19:07 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:19:07 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:19:07 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 25
+[29-Dec-2021 07:19:34 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:19:34 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:19:34 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 25
+[29-Dec-2021 07:20:55 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:20:55 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:20:55 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:20:55 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:20:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PlaceOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:20:57 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:20:57 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:20:58 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:20:58 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:20:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PlaceOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:21:39 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:21:39 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:21:39 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:21:39 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:21:39 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:22:04 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:22:04 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:22:04 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:22:04 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:22:04 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:23:14 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:23:14 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:23:14 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:23:14 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:23:31 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:23:31 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:23:31 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:23:31 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:23:31 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:24:43 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:24:43 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:24:43 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:24:43 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 19
+[29-Dec-2021 07:24:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PlaceOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:26:07 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:26:07 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:26:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Orders' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 26
+[29-Dec-2021 07:26:30 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:26:30 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:26:51 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:26:51 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:27:57 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:27:57 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:27:57 UTC] PHP Fatal error:  Uncaught Error: Class 'placeOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 27
+[29-Dec-2021 07:29:30 UTC] PHP Warning:  include_once(../../models/placeOrder.php): failed to open stream: No such file or directory in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:29:30 UTC] PHP Warning:  include_once(): Failed opening '../../models/placeOrder.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 9
+[29-Dec-2021 07:29:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PlaceOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 27
+[29-Dec-2021 07:34:18 UTC] PHP Fatal error:  Uncaught Error: Class 'orderPlacement' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php on line 27
+[29-Dec-2021 07:35:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/orderPlacement.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/orderPlacement.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/orderPlacement.php on line 56
+[29-Dec-2021 07:36:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 07:39:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 07:40:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 64
+[29-Dec-2021 07:40:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 07:43:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 07:44:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 07:46:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 07:47:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 07:48:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 07:54:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:57
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(57): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 57
+[29-Dec-2021 08:02:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:58
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(58): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 58
+[29-Dec-2021 08:02:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:58
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(58): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '3', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 58
+[29-Dec-2021 08:02:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:58
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(58): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 58
+[29-Dec-2021 08:03:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:59
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(59): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 59
+[29-Dec-2021 08:04:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:60
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(60): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 60
+[29-Dec-2021 08:26:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Auction' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/calculateTotal.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/calculateTotal.php on line 21
+[29-Dec-2021 08:28:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:86
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(86): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/calculateTotal.php(26): PlaceOrder->totalAmount('7')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 86
+[29-Dec-2021 08:30:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(87): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/calculateTotal.php(26): PlaceOrder->totalAmount('7')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 87
+[29-Dec-2021 08:30:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(87): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/calculateTotal.php(26): PlaceOrder->totalAmount('7')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 87
+[29-Dec-2021 08:31:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_itemId' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:105
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(105): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/calculateTotal.php(30): PlaceOrder->total('7')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 105
+[29-Dec-2021 08:32:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_itemId' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:105
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(105): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/calculateTotal.php(30): PlaceOrder->total('7')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 105
+[29-Dec-2021 08:32:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_itemId' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:105
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(105): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/calculateTotal.php(30): PlaceOrder->total('7')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 105
+[29-Dec-2021 08:36:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:61
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(61): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 61
+[29-Dec-2021 08:39:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:66
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(66): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 66
+[29-Dec-2021 08:40:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:67
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(67): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 67
+[29-Dec-2021 08:52:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:64
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(64): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 64
+[29-Dec-2021 08:53:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:64
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(64): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 64
+[29-Dec-2021 08:55:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:65
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(65): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 65
+[29-Dec-2021 08:58:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:65
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(65): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 65
+[29-Dec-2021 08:58:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:65
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(65): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 65
+[29-Dec-2021 09:00:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:61
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(61): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 61
+[29-Dec-2021 09:03:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:61
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(61): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 61
+[29-Dec-2021 09:03:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:61
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(61): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 61
+[29-Dec-2021 09:04:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:61
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(61): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 61
+[29-Dec-2021 09:05:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:61
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(61): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 61
+[29-Dec-2021 09:13:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:139
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(139): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 139
+[29-Dec-2021 09:14:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:139
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(139): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 139
+[29-Dec-2021 09:17:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:139
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(139): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 139
+[29-Dec-2021 09:19:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:139
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(139): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 139
+[29-Dec-2021 09:19:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:60
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(60): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 60
+[29-Dec-2021 09:22:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:60
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(60): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 60
+[29-Dec-2021 09:32:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:55
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(55): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 55
+[29-Dec-2021 09:36:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:59
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(59): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 59
+[29-Dec-2021 09:37:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 09:39:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 09:42:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '2', order_item_rca_id = '2',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 09:48:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '.2.', order_item_rca_id = '.2.',order_item' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 09:50:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 09:51:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 09:52:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`orders_items`, CONSTRAINT `orderId` FOREIGN KEY (`order_item_rca_id`) REFERENCES `rcas` (`rcaId`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('2', '2', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 09:59:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '3', order_item_rca_id = '8',order_itemQuan' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '8', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 09:59:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' . orders_items . ' SET  order_id = '.3.', order_item_rca_id = '.8.',order_item' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:56
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(56): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderPlace.php(31): PlaceOrder->place_order('3', '8', '2', '10')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 56
+[29-Dec-2021 11:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PlaceOrder' not found in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/numofOrders.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/numofOrders.php on line 20
+[29-Dec-2021 11:08:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*order_price 
+                             from orders_items
+                 ' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:130
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(130): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/numofOrders.php(24): PlaceOrder->numofOrders('32')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 130
+[29-Dec-2021 11:09:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*order_price 
+                             from orders_items
+                 ' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:130
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(130): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/numofOrders.php(24): PlaceOrder->numofOrders('32')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 130
+[29-Dec-2021 11:24:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from orders_items o
+                                where
+                    ' at line 2 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:130
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(130): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/numofOrders.php(24): PlaceOrder->numofOrders('31')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 130
+[29-Dec-2021 11:24:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from orders_items
+                                where
+                      ' at line 2 in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:130
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(130): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/numofOrders.php(24): PlaceOrder->numofOrders('31')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 130
+[01-Jan-2022 13:10:30 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method RCA::orderDetails() in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 23
+[01-Jan-2022 13:11:40 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:15:54 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:15:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'field list' in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php:158
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php(158): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php(23): PlaceOrder->orderDetails(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/PlaceOrder.php on line 158
+[01-Jan-2022 13:18:29 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:18:44 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:23:02 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:24:58 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:25:43 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:25:46 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:27:26 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:27:29 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:28:01 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:28:03 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:28:47 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:29:39 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:30:19 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:30:21 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[01-Jan-2022 13:30:35 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[03-Jan-2022 05:27:27 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9
+[03-Jan-2022 09:39:43 UTC] PHP Notice:  Undefined index: $order_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/placeOrder/orderdetails.php on line 9

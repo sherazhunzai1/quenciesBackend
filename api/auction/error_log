@@ -1,0 +1,405 @@
+[26-Apr-2021 18:53:37 UTC] PHP Fatal error:  Cannot declare class Auction, because the name is already in use in /home/f25pvowz2z91/public_html/developmentprimo/models/Bidding.php on line 2
+[26-Apr-2021 18:56:43 UTC] PHP Notice:  Undefined variable: start in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 33
+[26-Apr-2021 18:56:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 4' at line 3 in /home/f25pvowz2z91/public_html/developmentprimo/models/Creators.php:63
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Creators.php(63): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php(33): Creators->creators(NULL, 4)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Creators.php on line 63
+[26-Apr-2021 19:01:23 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 36
+[26-Apr-2021 19:10:16 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 36
+[26-Apr-2021 19:14:33 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 36
+[26-Apr-2021 19:16:31 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 36
+[27-Apr-2021 15:46:12 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 15:46:12 UTC] PHP Notice:  Undefined property: Auctions::$price in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 386
+[27-Apr-2021 15:46:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php:394
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php(394): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php(35): Auctions->insert('1', Object(PDOStatement), NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 394
+[27-Apr-2021 15:46:39 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 15:46:39 UTC] PHP Notice:  Undefined property: Auctions::$price in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 386
+[27-Apr-2021 15:46:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php:394
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php(394): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php(35): Auctions->insert('1', Object(PDOStatement), NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 394
+[27-Apr-2021 15:48:30 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 15:48:30 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 385
+[27-Apr-2021 15:48:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php:394
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php(394): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php(35): Auctions->insert('1', Object(PDOStatement), NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 394
+[27-Apr-2021 15:50:19 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 15:50:19 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 385
+[27-Apr-2021 15:50:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php:394
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php(394): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php(35): Auctions->insert('1', Object(PDOStatement), NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 394
+[27-Apr-2021 15:50:31 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 15:50:31 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 385
+[27-Apr-2021 15:50:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php:394
+Stack trace:
+#0 /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php(394): PDOStatement->execute()
+#1 /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php(35): Auctions->insert('1', Object(PDOStatement), NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 394
+[27-Apr-2021 15:51:20 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 15:51:20 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 385
+[27-Apr-2021 15:51:20 UTC] PHP Notice:  Undefined variable: creator in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 45
+[27-Apr-2021 15:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function total_creators() on null in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 45
+[27-Apr-2021 15:52:57 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 15:52:57 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 385
+[27-Apr-2021 15:56:44 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 15:56:44 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, object given in /home/f25pvowz2z91/public_html/developmentprimo/models/Auctions.php on line 385
+[27-Apr-2021 15:58:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 35
+[27-Apr-2021 16:00:04 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 37
+[27-Apr-2021 16:01:00 UTC] PHP Notice:  Undefined variable: max in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 37
+[27-Apr-2021 16:01:00 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 37
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:43:09 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:44:06 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:45:13 UTC] PHP Warning:  Illegal string offset 'i' in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 40
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:16 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 43
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:49:55 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 43
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 43
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 43
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:08 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 43
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Warning:  A non-numeric value encountered in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 38
+[27-Apr-2021 16:51:09 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/developmentprimo/api/auction/auction.php on line 43
+[17-Sep-2021 07:02:39 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/f25pvowz2z91/public_html/test.safeart.webloop.pk/api/auction/auction.php on line 34
+[17-Sep-2021 07:02:39 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/public_html/test.safeart.webloop.pk/api/auction/auction.php on line 35
+[17-Sep-2021 07:02:39 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/public_html/test.safeart.webloop.pk/api/auction/auction.php on line 35
+[22-Sep-2021 11:53:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+               LIMIT 1' at line 5 in /home/f25pvowz2z91/quencies.alshumaal.com/models/Bidding.php:43
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/Bidding.php(43): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php(31): Bidding->get_bidding('')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/Bidding.php on line 43
+[23-Sep-2021 06:22:45 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 34
+[23-Sep-2021 06:22:45 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[23-Sep-2021 06:22:45 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[23-Sep-2021 06:25:35 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 34
+[23-Sep-2021 06:25:35 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[23-Sep-2021 06:25:35 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[23-Sep-2021 06:27:17 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 34
+[23-Sep-2021 06:27:17 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[23-Sep-2021 06:27:17 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[23-Sep-2021 08:37:30 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 34
+[23-Sep-2021 08:37:30 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[23-Sep-2021 08:37:30 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[27-Sep-2021 05:26:07 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 34
+[27-Sep-2021 05:26:07 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[27-Sep-2021 05:26:07 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[27-Sep-2021 05:26:14 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 34
+[27-Sep-2021 05:26:14 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[27-Sep-2021 05:26:14 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[27-Sep-2021 05:26:21 UTC] PHP Warning:  extract() expects parameter 1 to be array, bool given in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 34
+[27-Sep-2021 05:26:21 UTC] PHP Notice:  Undefined variable: creator_id in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[27-Sep-2021 05:26:21 UTC] PHP Notice:  Undefined variable: price in /home/f25pvowz2z91/quencies.alshumaal.com/api/auction/auction.php on line 35
+[12-Feb-2022 13:50:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE
+                            tokenId='2'' at line 2 in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php:522
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php(522): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/setAuction.php(28): Auctions->setAuction('2', 'asfsdg', 'fasgsdg', '1', '3455')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php on line 522
+[12-Feb-2022 13:51:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE
+                            tokenId='2'' at line 2 in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php:522
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php(522): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/setAuction.php(29): Auctions->setAuction('2', 'asfsdg', 'fasgsdg', '1', '3455')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php on line 522
+[12-Feb-2022 13:52:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE
+                            tokenId='2'' at line 2 in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php:522
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php(522): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/setAuction.php(30): Auctions->setAuction('2', 'asfsdg', 'fasgsdg', '1', '3455')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auctions.php on line 522
+[12-Feb-2022 14:08:09 UTC] PHP Notice:  Undefined variable: auctionId in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/setAuction.php on line 30
+[18-Feb-2022 14:48:57 UTC] PHP Notice:  Undefined variable: Auction in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 32
+[18-Feb-2022 14:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_owner() on null in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 32
+[18-Feb-2022 14:49:59 UTC] PHP Notice:  Undefined variable: Auction in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 32
+[18-Feb-2022 14:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_owner() on null in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 32
+[18-Feb-2022 14:50:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token_id' in 'where clause' in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auction.php:1638
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auction.php(1638): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php(32): Auction->update_owner('0x1e857B5117EC3...', '1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auction.php on line 1638
+[18-Feb-2022 14:50:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token_id' in 'where clause' in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auction.php:1638
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auction.php(1638): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php(32): Auction->update_owner('0x1e857B5117EC3...', '1')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/Auction.php on line 1638
+[18-Feb-2022 14:53:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Bidding::statusOff() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 38
+[18-Feb-2022 14:56:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Bidding::statusOff() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 38
+[18-Feb-2022 15:02:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Auction::settleStatuslisting() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 39
+[18-Feb-2022 15:03:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Auction::settleStatuslisting() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 39
+[18-Feb-2022 15:06:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Auction::settleStatuslisting() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 40
+[18-Feb-2022 15:09:31 UTC] PHP Notice:  Undefined variable: transfer in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 34
+[18-Feb-2022 15:09:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Auction::settleStatuslisting() in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 29
+[20-Feb-2022 01:08:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/f25pvowz2z91/testquencies.alshumaal.com/api/auction/auctionSetttle.php on line 51

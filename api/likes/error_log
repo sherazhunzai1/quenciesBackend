@@ -1,0 +1,899 @@
+[20-Oct-2021 06:27:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 900
+[20-Oct-2021 06:28:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 900
+[20-Oct-2021 07:40:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 33
+[20-Oct-2021 07:41:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 33
+[20-Oct-2021 09:02:57 UTC] PHP Notice:  Undefined index: likes in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 889
+[20-Oct-2021 09:08:44 UTC] PHP Notice:  Undefined index: likes in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 889
+[20-Oct-2021 09:13:11 UTC] PHP Notice:  Undefined index: likes in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 889
+[20-Oct-2021 09:16:19 UTC] PHP Notice:  Undefined index: likes in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 889
+[20-Oct-2021 09:16:22 UTC] PHP Notice:  Undefined index: likes in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 889
+[20-Oct-2021 09:16:55 UTC] PHP Notice:  Undefined index: likes in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 889
+[20-Oct-2021 09:16:57 UTC] PHP Notice:  Undefined index: likes in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 889
+[20-Oct-2021 09:22:21 UTC] PHP Notice:  Undefined variable: row in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/totalLikes.php on line 26
+[20-Oct-2021 11:25:59 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 29
+[20-Oct-2021 11:25:59 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 31
+[20-Oct-2021 11:26:46 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 29
+[20-Oct-2021 11:26:46 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 31
+[20-Oct-2021 11:26:48 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 29
+[20-Oct-2021 11:26:48 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 31
+[20-Oct-2021 11:26:49 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 29
+[20-Oct-2021 11:26:49 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 31
+[20-Oct-2021 11:26:52 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 29
+[20-Oct-2021 11:26:52 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 31
+[20-Oct-2021 11:27:29 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 29
+[20-Oct-2021 11:27:29 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 31
+[20-Oct-2021 11:27:48 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 29
+[20-Oct-2021 11:27:48 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/ratingInfo/getLikes.php on line 31
+[20-Oct-2021 11:45:48 UTC] PHP Fatal error:  Cannot redeclare Auction::getTotallikes() in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 884
+[20-Oct-2021 11:45:52 UTC] PHP Fatal error:  Cannot redeclare Auction::getTotallikes() in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 884
+[20-Oct-2021 11:47:04 UTC] PHP Fatal error:  Cannot redeclare Auction::getTotallikes() in /home/f25pvowz2z91/quencies.alshumaal.com/models/Auction.php on line 884
+[20-Oct-2021 19:39:40 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 36
+[20-Oct-2021 19:39:40 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[20-Oct-2021 19:39:45 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 36
+[20-Oct-2021 19:39:45 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[20-Oct-2021 19:39:52 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 36
+[20-Oct-2021 19:39:52 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[20-Oct-2021 19:40:33 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 36
+[20-Oct-2021 19:40:33 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[21-Oct-2021 06:06:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 42
+[21-Oct-2021 06:07:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[21-Oct-2021 06:36:35 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 06:36:35 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 06:36:35 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 06:41:27 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 06:41:27 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 06:41:27 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 06:43:28 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 06:43:28 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 06:43:28 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 06:43:36 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 06:43:36 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 06:43:36 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 06:49:27 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 06:49:27 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 06:49:27 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 10:19:51 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 10:19:51 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 10:19:51 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 10:20:25 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 10:20:25 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 10:20:25 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 10:51:12 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 10:51:12 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 10:51:12 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 10:51:56 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 10:51:56 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 10:51:56 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 11:00:29 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 11:00:29 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 11:00:29 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 11:01:25 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 11:01:25 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 11:01:25 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[21-Oct-2021 15:56:07 UTC] PHP Warning:  Use of undefined constant exists - assumed 'exists' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[21-Oct-2021 15:56:07 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 32
+[21-Oct-2021 15:56:07 UTC] PHP Notice:  Undefined variable: n in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[26-Oct-2021 07:51:57 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[26-Oct-2021 07:51:57 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[26-Oct-2021 07:51:57 UTC] PHP Notice:  Undefined variable: posts in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 45
+[26-Oct-2021 07:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isUserAlreadyLiked() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 45
+[26-Oct-2021 07:52:00 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[26-Oct-2021 07:52:00 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[26-Oct-2021 07:52:00 UTC] PHP Notice:  Undefined variable: posts in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 45
+[26-Oct-2021 07:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isUserAlreadyLiked() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 45
+[26-Oct-2021 07:56:20 UTC] PHP Notice:  Undefined variable: posts in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[26-Oct-2021 07:56:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function isUserAlreadyLiked() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[26-Oct-2021 08:04:24 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[26-Oct-2021 08:04:24 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 55
+[26-Oct-2021 08:04:24 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 88
+[26-Oct-2021 08:04:24 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 96
+[26-Oct-2021 08:04:24 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 63
+[26-Oct-2021 08:05:21 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[26-Oct-2021 08:05:21 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 55
+[26-Oct-2021 08:05:21 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 88
+[26-Oct-2021 08:05:21 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 96
+[26-Oct-2021 08:05:21 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 63
+[26-Oct-2021 08:05:55 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[26-Oct-2021 08:05:55 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 55
+[26-Oct-2021 08:05:55 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 88
+[26-Oct-2021 08:05:55 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 96
+[26-Oct-2021 08:05:55 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 63
+[26-Oct-2021 08:06:38 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 47
+[26-Oct-2021 08:06:38 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 54
+[26-Oct-2021 08:06:38 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 88
+[26-Oct-2021 08:06:38 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 96
+[26-Oct-2021 08:06:38 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 62
+[27-Oct-2021 08:48:26 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 38
+[27-Oct-2021 08:48:26 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 57
+[27-Oct-2021 08:48:26 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 89
+[27-Oct-2021 08:48:26 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 99
+[27-Oct-2021 08:48:26 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 08:49:32 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 38
+[27-Oct-2021 08:49:32 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 57
+[27-Oct-2021 08:49:32 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 89
+[27-Oct-2021 08:49:32 UTC] PHP Notice:  Undefined index: status in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 99
+[27-Oct-2021 08:49:32 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 10:47:24 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 38
+[27-Oct-2021 10:47:24 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 57
+[27-Oct-2021 10:47:24 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 61 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(61): Likes->updateNftLikes(Array)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:48:50 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 39
+[27-Oct-2021 10:48:54 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 39
+[27-Oct-2021 10:50:25 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 54
+[27-Oct-2021 10:50:25 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 61
+[27-Oct-2021 10:50:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 66 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(66): Likes->updateNftLikes(Array)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:51:44 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 57
+[27-Oct-2021 10:51:44 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 64
+[27-Oct-2021 10:51:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 69 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(69): Likes->updateNftLikes(Array)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:52:29 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 57
+[27-Oct-2021 10:52:29 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 64
+[27-Oct-2021 10:52:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 69 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(69): Likes->updateNftLikes(Array)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:54:04 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68
+[27-Oct-2021 10:54:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(68): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:54:06 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68
+[27-Oct-2021 10:54:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(68): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:54:08 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68
+[27-Oct-2021 10:54:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(68): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:54:09 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68
+[27-Oct-2021 10:54:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(68): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:55:11 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68
+[27-Oct-2021 10:55:11 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(68): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 10:55:58 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 56
+[27-Oct-2021 10:55:58 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 63
+[27-Oct-2021 10:55:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 68 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(68): Likes->updateNftLikes(Array)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 11:42:43 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 11:42:43 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 11:42:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 69 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(69): Likes->updateNftLikes(Array)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 11:43:12 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 11:43:12 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 11:44:42 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 11:44:42 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 11:45:21 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 71
+[27-Oct-2021 11:45:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 71 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(71): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 11:58:08 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 71
+[27-Oct-2021 11:58:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 71 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(71): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 11:58:23 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 71
+[27-Oct-2021 11:58:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 71 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(71): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 11:58:59 UTC] PHP Notice:  Undefined variable: postVoteData in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 71
+[27-Oct-2021 11:58:59 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::updateNftLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 71 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:87
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(71): Likes->updateNftLikes(NULL)
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 87
+[27-Oct-2021 12:02:29 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 12:02:29 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 12:02:29 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 76
+[27-Oct-2021 12:02:57 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 12:02:57 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 12:02:57 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 76
+[27-Oct-2021 12:14:30 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 12:14:30 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 12:14:30 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 77
+[27-Oct-2021 12:20:58 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 12:20:58 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 12:20:58 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 77
+[27-Oct-2021 12:21:40 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 12:21:40 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 12:21:40 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 77
+[27-Oct-2021 12:21:47 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 12:21:47 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 12:21:47 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 77
+[27-Oct-2021 12:23:16 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[27-Oct-2021 12:23:16 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[27-Oct-2021 12:23:16 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 77
+[01-Nov-2021 14:15:14 UTC] PHP Notice:  Undefined index: vote_up in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[01-Nov-2021 14:15:14 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 65
+[01-Nov-2021 14:15:14 UTC] PHP Notice:  Undefined index: vote_down in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 77
+[01-Nov-2021 14:53:14 UTC] PHP Notice:  Undefined variable: view in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[01-Nov-2021 14:53:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[01-Nov-2021 14:53:16 UTC] PHP Notice:  Undefined variable: view in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[01-Nov-2021 14:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[01-Nov-2021 14:56:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on array in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 35
+[01-Nov-2021 14:59:05 UTC] PHP Notice:  Undefined index: likesId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 38
+[01-Nov-2021 15:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on array in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 55
+[01-Nov-2021 15:13:56 UTC] PHP Notice:  Undefined index: likesId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 58
+[01-Nov-2021 18:32:13 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 106
+[01-Nov-2021 18:36:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 108
+[01-Nov-2021 18:36:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 108
+[01-Nov-2021 18:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 42
+[01-Nov-2021 18:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 40
+[01-Nov-2021 18:45:18 UTC] PHP Notice:  Undefined variable: query in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 124
+[01-Nov-2021 18:45:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:127
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(127): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(34): Likes->updateNftLikes('14', '2')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 127
+[01-Nov-2021 18:45:57 UTC] PHP Notice:  Undefined variable: query in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 124
+[01-Nov-2021 18:45:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:127
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(127): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(34): Likes->updateNftLikes('14', '2')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 127
+[01-Nov-2021 18:50:54 UTC] PHP Notice:  Undefined variable: status in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 34
+[01-Nov-2021 18:52:59 UTC] PHP Notice:  Undefined variable: status in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 34
+[01-Nov-2021 19:16:06 UTC] PHP Notice:  Undefined index: likesId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 36
+[01-Nov-2021 19:16:06 UTC] PHP Notice:  Undefined index: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 37
+[01-Nov-2021 19:19:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on array in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[01-Nov-2021 19:28:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on array in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 36
+[01-Nov-2021 19:34:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::getUserLikes(), 1 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29 and exactly 2 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:64
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(29): Likes->getUserLikes('14')
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 64
+[01-Nov-2021 19:36:29 UTC] PHP Notice:  Undefined index: id in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 82
+[01-Nov-2021 19:41:20 UTC] PHP Notice:  Undefined index: id in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 82
+[01-Nov-2021 19:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[01-Nov-2021 19:42:00 UTC] PHP Notice:  Undefined index: id in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 82
+[01-Nov-2021 19:50:57 UTC] PHP Notice:  Undefined variable: likes in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[01-Nov-2021 19:50:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getUserLikes() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[01-Nov-2021 19:51:56 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[01-Nov-2021 19:51:56 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[01-Nov-2021 19:51:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(25): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[01-Nov-2021 19:51:59 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[01-Nov-2021 19:51:59 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[01-Nov-2021 19:51:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(25): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[01-Nov-2021 19:53:38 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 23
+[01-Nov-2021 19:53:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:95
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(95): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(23): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 95
+[01-Nov-2021 19:53:42 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 23
+[01-Nov-2021 19:53:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:95
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(95): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(23): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 95
+[01-Nov-2021 19:55:31 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 18
+[01-Nov-2021 19:55:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:95
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(95): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(18): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 95
+[01-Nov-2021 19:55:51 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:55:51 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:55:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[01-Nov-2021 19:56:19 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:56:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:95
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(95): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 95
+[01-Nov-2021 19:57:56 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:57:56 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:57:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[01-Nov-2021 19:57:59 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:57:59 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:57:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[01-Nov-2021 19:58:38 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:58:38 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:59:53 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 19:59:53 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:00:05 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:00:05 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:00:20 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:00:20 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:00:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[01-Nov-2021 20:01:09 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:01:09 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:01:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:71
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(71): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 71
+[01-Nov-2021 20:07:46 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:07:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:89
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(89): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 89
+[01-Nov-2021 20:08:22 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:08:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:89
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(89): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 89
+[01-Nov-2021 20:09:00 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:09:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:89
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(89): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 89
+[01-Nov-2021 20:09:28 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:09:49 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:10:04 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:10:20 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[01-Nov-2021 20:10:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:89
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(89): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 89
+[02-Nov-2021 05:29:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 73
+[02-Nov-2021 05:48:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nftId=5  AND creatorId=6' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php(30): Likes->deleteLikes('5', '6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[02-Nov-2021 05:49:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nftId=5  AND creatorId=6' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php(30): Likes->deleteLikes('5', '6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[02-Nov-2021 05:50:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nftId=5  AND creatorId=6' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:72
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(72): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php(30): Likes->deleteLikes('5', '6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 72
+[02-Nov-2021 06:00:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Likes::createLikes(), 2 passed in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php on line 30 and exactly 3 expected in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:133
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php(30): Likes->createLikes('5', '6')
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 133
+[02-Nov-2021 06:01:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nftId = '' AND creatorId =''' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:148
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(148): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php(30): Likes->createLikes('5', '6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 148
+[02-Nov-2021 06:01:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE nftId = '' AND creatorId =''' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:148
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(148): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php(30): Likes->createLikes('5', '6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 148
+[02-Nov-2021 06:01:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nftId = '' AND creatorId =''' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:148
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(148): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php(30): Likes->createLikes('5', '6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 148
+[02-Nov-2021 06:02:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'quencies.INTOlikes' doesn't exist in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:148
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(148): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php(30): Likes->createLikes('5', '6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 148
+[02-Nov-2021 06:10:29 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:10:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 106
+[02-Nov-2021 06:11:22 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:11:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 106
+[02-Nov-2021 06:11:48 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:14:21 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:14:32 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:15:13 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:15:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:107
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(107): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 107
+[02-Nov-2021 06:18:02 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:18:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:105
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(105): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 105
+[02-Nov-2021 06:18:24 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:18:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:105
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(105): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 105
+[02-Nov-2021 06:19:16 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 06:19:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 106
+[02-Nov-2021 08:07:43 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 08:07:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 106
+[02-Nov-2021 08:13:14 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 08:13:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:106
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(106): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 106
+[02-Nov-2021 08:13:50 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 08:13:50 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 08:13:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:88
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(88): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 88
+[02-Nov-2021 08:21:19 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 08:21:19 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 08:21:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:88
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(88): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 88
+[02-Nov-2021 08:27:37 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 08:27:37 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 20
+[02-Nov-2021 08:27:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:31
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(31): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(20): Likes->getLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 31
+[02-Nov-2021 08:28:16 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:28:16 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:28:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:31
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(31): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 31
+[02-Nov-2021 08:28:50 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:28:50 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:29:10 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:29:10 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:36:35 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:36:35 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:36:35 UTC] PHP Warning:  Use of undefined constant creatorId - assumed 'creatorId' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 24
+[02-Nov-2021 08:36:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId =creatorId' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:32
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(32): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 32
+[02-Nov-2021 08:38:36 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:38:36 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:38:36 UTC] PHP Warning:  Use of undefined constant creatorId - assumed 'creatorId' (this will throw an Error in a future version of PHP) in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 24
+[02-Nov-2021 08:38:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId =creatorId' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:32
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(32): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 32
+[02-Nov-2021 08:46:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getDislikes.php on line 56
+[02-Nov-2021 08:57:40 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:57:40 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 08:57:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:91
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(91): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 91
+[02-Nov-2021 09:00:40 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:00:40 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:00:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:91
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(91): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 91
+[02-Nov-2021 09:01:25 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:01:25 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:01:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:91
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(91): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 91
+[02-Nov-2021 09:02:45 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:02:45 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:02:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:89
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(89): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 89
+[02-Nov-2021 09:03:07 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:03:07 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:03:22 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:03:22 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:03:38 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:03:38 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:03:57 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:03:57 UTC] PHP Notice:  Undefined variable: creatorId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:03:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND creatorId=' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:90
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(90): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getUserLikes(NULL, NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 90
+[02-Nov-2021 09:06:57 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:06:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:107
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(107): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 107
+[02-Nov-2021 09:09:36 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:09:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:107
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(107): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 107
+[02-Nov-2021 09:12:08 UTC] PHP Notice:  Undefined variable: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 21
+[02-Nov-2021 09:12:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:107
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(107): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(21): Likes->getTotalLikes(NULL)
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 107
+[02-Nov-2021 19:40:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 54
+[02-Nov-2021 19:51:45 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:52:16 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:52:20 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:52:48 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:53:01 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:53:54 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:53:57 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:54:41 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:54:56 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 19:57:59 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 20:00:15 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 20:00:38 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 20:01:08 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 20:01:25 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 20:01:31 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 33
+[02-Nov-2021 20:16:23 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[02-Nov-2021 20:16:39 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[02-Nov-2021 20:19:09 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 28
+[03-Nov-2021 05:22:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) FROM likes where nftId=5' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:91
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(91): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(22): Likes->getTotalLikes('5')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 91
+[03-Nov-2021 05:22:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) FROM likes where nftId=5' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:91
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(91): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(22): Likes->getTotalLikes('5')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 91
+[03-Nov-2021 05:22:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*) FROM likes where nftId=5' at line 1 in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:91
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(91): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(22): Likes->getTotalLikes('5')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 91
+[03-Nov-2021 05:28:38 UTC] PHP Notice:  Undefined index: id in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 96
+[03-Nov-2021 05:28:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 27
+[03-Nov-2021 05:32:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 27
+[03-Nov-2021 05:34:23 UTC] PHP Notice:  Undefined index: likesId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 30
+[03-Nov-2021 05:34:23 UTC] PHP Notice:  Undefined index: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 31
+[03-Nov-2021 05:40:07 UTC] PHP Notice:  Undefined variable: result in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 24
+[03-Nov-2021 05:40:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 24
+[03-Nov-2021 05:41:43 UTC] PHP Notice:  Undefined variable: result in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 24
+[03-Nov-2021 05:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 24
+[03-Nov-2021 05:42:20 UTC] PHP Notice:  Undefined variable: result in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 05:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 05:42:55 UTC] PHP Notice:  Undefined index: likesId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 34
+[03-Nov-2021 05:42:55 UTC] PHP Notice:  Undefined index: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 35
+[03-Nov-2021 05:48:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 44
+[03-Nov-2021 05:48:37 UTC] PHP Notice:  Undefined index: likesId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 34
+[03-Nov-2021 05:48:37 UTC] PHP Notice:  Undefined index: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 35
+[03-Nov-2021 05:53:31 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 06:22:36 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[03-Nov-2021 06:26:18 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 06:26:42 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 06:27:32 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 06:27:46 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 06:29:08 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[03-Nov-2021 06:32:55 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 29
+[03-Nov-2021 06:35:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 154
+[03-Nov-2021 06:35:05 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 154
+[03-Nov-2021 07:01:18 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 07:01:23 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 07:03:05 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 07:46:46 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 07:49:30 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 07:49:40 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 07:49:48 UTC] PHP Notice:  Object of class PDOStatement could not be converted to int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 30
+[03-Nov-2021 08:11:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php on line 46
+[03-Nov-2021 08:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 31
+[03-Nov-2021 08:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 26
+[03-Nov-2021 09:00:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 26
+[03-Nov-2021 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 26
+[03-Nov-2021 09:02:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on int in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 33
+[03-Nov-2021 09:19:30 UTC] PHP Notice:  Undefined index: likesId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 34
+[03-Nov-2021 09:19:30 UTC] PHP Notice:  Undefined index: nftId in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 35
+[03-Nov-2021 09:22:27 UTC] PHP Notice:  Undefined index: id in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 116
+[03-Nov-2021 09:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 31
+[03-Nov-2021 09:22:33 UTC] PHP Notice:  Undefined index: id in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 116
+[03-Nov-2021 09:22:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 31
+[03-Nov-2021 09:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 31
+[03-Nov-2021 09:24:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 09:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 09:42:46 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 112
+[03-Nov-2021 09:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 09:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Likes::connect() in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:109
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php(22): Likes->getTotalLikes('15')
+#1 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 109
+[03-Nov-2021 09:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 09:51:28 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 109
+[03-Nov-2021 10:09:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 10:10:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 10:10:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 10:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[03-Nov-2021 10:11:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on string in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/totalLikes.php on line 25
+[13-Nov-2021 20:49:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'undefined' in 'where clause' in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:32
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(32): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(27): Likes->isUserAlreadyLiked('undefined', '11')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 32
+[13-Nov-2021 20:49:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'undefined' in 'where clause' in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:32
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(32): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(27): Likes->isUserAlreadyLiked('undefined', '11')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 32
+[13-Nov-2021 20:49:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'undefined' in 'where clause' in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:32
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(32): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(27): Likes->isUserAlreadyLiked('undefined', '11')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 32
+[13-Nov-2021 20:49:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'undefined' in 'where clause' in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:32
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(32): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(27): Likes->isUserAlreadyLiked('undefined', '9')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 32
+[13-Jan-2022 12:03:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`likes`, CONSTRAINT `nft_id` FOREIGN KEY (`nftId`) REFERENCES `nfts` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:129
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(129): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(41): Likes->createLikes('34', '50')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 129
+[13-Jan-2022 12:04:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quencies`.`likes`, CONSTRAINT `nft_id` FOREIGN KEY (`nftId`) REFERENCES `nfts` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php:129
+Stack trace:
+#0 /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php(129): PDOStatement->execute()
+#1 /home/f25pvowz2z91/quencies.alshumaal.com/api/likes/getLikes.php(41): Likes->createLikes('34', '6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/quencies.alshumaal.com/models/likes.php on line 129
+[18-Feb-2022 13:21:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.auction' in 'field list' in /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/likes/favoriteNfts.php(24): Likes->Likednfts('150')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php on line 164
+[18-Feb-2022 13:23:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.auction' in 'field list' in /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/likes/favoriteNfts.php(24): Likes->Likednfts('150')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php on line 164
+[18-Feb-2022 13:23:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.auction' in 'field list' in /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php:164
+Stack trace:
+#0 /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php(164): PDOStatement->execute()
+#1 /home/f25pvowz2z91/testquencies.alshumaal.com/api/likes/favoriteNfts.php(24): Likes->Likednfts('6')
+#2 {main}
+  thrown in /home/f25pvowz2z91/testquencies.alshumaal.com/models/likes.php on line 164
